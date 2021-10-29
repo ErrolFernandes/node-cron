@@ -110,7 +110,7 @@ week where both 0 and 7 represent Sunday. We do not. And that is an optimisation
   Arrow functions get their `this` context from their parent scope. Thus, if you use them, you will not get
   the `this` context of the cronjob. You can read a little more in this ticket [GH-40](https://github.com/kelektiv/node-cron/issues/47#issuecomment-459762775)
 
-# API
+# API. 
 
 Parameter Based
 
