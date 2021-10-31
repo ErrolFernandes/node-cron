@@ -1,4 +1,4 @@
-# node-cron.. 
+# node-cron.... 
 
 [![Version](https://badgen.net/npm/v/cron?icon=npm)](https://badgen.net/npm/v/cron)
 [![Build Status](https://badgen.net/github/status/kelektiv/node-cron?icon=github)](https://badgen.net/github/status/kelektiv/node-cron)
